@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="color" name="main_bg_color">#e4e4e4</item>
+    <item type="color" name="main_text">#303030</item>
+    <item type="color" name="main_action_bar">#0099cc</item>
+    <item type="color" name="main_action_bar_light">#33b5e5</item>
+    <item type="color" name="icon_highlight_color">#d6d6d6</item>
+    <item type="color" name="icon_on_dark_bg">#6d6d6d</item>
+    <item type="color" name="icon_red_highlight">#f44</item>
+    <item type="color" name="icon_green_highlight">#9c0</item>
+    <item type="color" name="list_item_bg">#ffffff</item>
+</resources>

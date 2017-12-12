@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Songwriter</string>
+    <string name="action_add_song">NEW</string>
+    <string name="action_share_song">SHARE</string>
+    <string name="action_delete_song">DELETE</string>
+    <string name="context_delete_song">DELETE</string>
+    <string name="action_record">PRESS TO RECORD</string>
+    <string name="action_stop_record">PRESS TO STOP</string>
+    <string name="description_record_button">Press this to record a new audio file.</string>
+    <string name="description_play_button">Press this to play this audio file.</string>
+    <string name="description_share_button">Press this to share this audio file.</string>
+
+</resources>
